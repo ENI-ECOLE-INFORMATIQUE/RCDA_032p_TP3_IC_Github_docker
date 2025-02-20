@@ -26,4 +26,4 @@ jobs:
        with:
          context: .
          push: true
-         tags: dsanchezEni/projet-docker-rcda032p:latest
+         tags: dsanchezeni/projet-docker-rcda032p:latest
